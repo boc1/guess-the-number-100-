@@ -1,0 +1,6 @@
+C:\Users\ahil\Documents\Visual Studio 2015\Projects\samopodgotovka\guessTheNumber\bin\Debug\guessTheNumber.exe.config
+C:\Users\ahil\Documents\Visual Studio 2015\Projects\samopodgotovka\guessTheNumber\bin\Debug\guessTheNumber.exe
+C:\Users\ahil\Documents\Visual Studio 2015\Projects\samopodgotovka\guessTheNumber\bin\Debug\guessTheNumber.pdb
+C:\Users\ahil\Documents\Visual Studio 2015\Projects\samopodgotovka\guessTheNumber\obj\Debug\guessTheNumber.csprojResolveAssemblyReference.cache
+C:\Users\ahil\Documents\Visual Studio 2015\Projects\samopodgotovka\guessTheNumber\obj\Debug\guessTheNumber.exe
+C:\Users\ahil\Documents\Visual Studio 2015\Projects\samopodgotovka\guessTheNumber\obj\Debug\guessTheNumber.pdb
